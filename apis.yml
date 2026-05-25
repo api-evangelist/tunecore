@@ -1,0 +1,93 @@
+aid: tunecore
+name: TuneCore
+description: >-
+  TuneCore is a Brooklyn, New York based independent music distribution and
+  publishing administration company founded in 2006 (as YourTunes, Inc.,
+  rebranded TuneCore in 2008) and acquired by French music company Believe
+  in 2015. TuneCore lets self-releasing artists and labels deliver recorded
+  music to 150+ digital stores and streaming services — Spotify, Apple Music,
+  Amazon Music, YouTube Music, TikTok, Tidal, Deezer, Beatport, and others —
+  while retaining 100% of their rights and master ownership, in exchange for
+  a flat annual distribution fee starting at $24.99/year for unlimited
+  releases. TuneCore Publishing Administration registers compositions with
+  performance rights organizations, mechanical rights societies, and digital
+  service providers worldwide to collect songwriter royalties, sync, and
+  neighboring rights income. Additional services include the TuneCore
+  Accelerator artist development program, TuneCore Social (monetization on
+  TikTok, Reels, and Shorts), TuneCore Direct Advance (royalty-backed
+  capital, powered by RoyFi), mastering, and Splits for collaborator
+  revenue sharing. TuneCore operates across 5 continents with local teams
+  in 15+ countries through Believe's global network. There is no current
+  public TuneCore developer API, SDK, or partner portal — an earlier
+  white-label REST/XML "TuneCore Direct" partner API existed circa
+  2008-2012 (with a community Ruby gem `tunecore_direct`) but is no longer
+  actively documented or promoted. TuneCore's public-facing surface is
+  the artist web app at web.tunecore.com and the support/help center; any
+  current B2B integrations run through Believe's enterprise partnerships.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Music
+  - Music Distribution
+  - Music Publishing
+  - Publishing Administration
+  - Royalties
+  - Streaming
+  - Independent Artists
+  - Labels
+  - Sync Licensing
+  - Mastering
+  - Believe
+  - Media
+  - Entertainment
+url: https://raw.githubusercontent.com/api-evangelist/tunecore/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.tunecore.com
+  - type: Application
+    url: https://web.tunecore.com/login
+  - type: SignUp
+    url: https://web.tunecore.com/signup
+  - type: Pricing
+    url: https://www.tunecore.com/pricing
+  - type: About
+    url: https://www.tunecore.com/what-is-tunecore
+  - type: Publishing
+    url: https://www.tunecore.com/publishing
+  - type: Accelerator
+    url: https://www.tunecore.com/accelerator
+  - type: Social
+    url: https://www.tunecore.com/social
+  - type: Mastering
+    url: https://www.tunecore.com/mastering
+  - type: Blog
+    url: https://www.tunecore.com/guides
+  - type: Support
+    url: https://support.tunecore.com
+  - type: Parent
+    url: https://www.believe.com
+  - type: GitHub
+    url: https://github.com/tunecore
+  - type: TechBlog
+    url: https://tech.tunecore.com
+  - type: Twitter
+    url: https://twitter.com/TuneCore
+  - type: Instagram
+    url: https://www.instagram.com/tunecore
+  - type: TikTok
+    url: https://www.tiktok.com/@tunecore
+  - type: YouTube
+    url: https://www.youtube.com/tunecore
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/tunecore
+  - type: Facebook
+    url: https://www.facebook.com/TuneCore
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

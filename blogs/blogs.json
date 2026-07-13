@@ -2,14 +2,14 @@
   "repo": "tunecore",
   "feeds": [
     {
-      "source": "https://www.tunecore.com/guides",
-      "feed_url": "",
+      "source": "https://www.tunecore.com/mastering",
+      "feed_url": "https://www.tunecore.com/mastering",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape",
-      "error": "no determinable publish dates on listing or posts"
+      "method": "none"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-27T13:17:40Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
